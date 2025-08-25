@@ -6,7 +6,7 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-cimport { QuartzConfig, Plugin } from "./quartz/bootstrap"
+import { QuartzConfig, Plugin } from "./quartz/bootstrap"
 
 const config: QuartzConfig = {
   configuration: {
