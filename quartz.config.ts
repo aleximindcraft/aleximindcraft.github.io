@@ -6,6 +6,8 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+cimport { QuartzConfig, Plugin } from "./quartz/bootstrap"
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Quartz 4",
@@ -17,6 +19,11 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
+
+    // 👇 AQUI ESTA LA CORRECCIÓN
+    sourceDir: "content-git",
+    outputDir: "public",
+
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -88,7 +95,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
+      // Esto genera previews para links, si quieres más rápido lo puedes comentar
       Plugin.CustomOgImages(),
     ],
   },
