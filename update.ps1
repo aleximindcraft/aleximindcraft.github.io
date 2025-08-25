@@ -14,3 +14,6 @@ Set-Location "G:\OBSIDIAN\aleximindcraft.github.io"
 git add .
 git commit -m "update notes"
 git push
+
+Write-Host "✅ Sincronización completa. Presiona cualquier tecla para salir..."
+Pause
