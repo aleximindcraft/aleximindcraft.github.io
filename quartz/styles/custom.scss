@@ -1,3 +1,54 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./base.scss";
+
+// 🎨 Colores globales
+:root {
+  --primary: #6c63ff;   // morado principal
+  --secondary: #ff6584; // acento rosado
+  --bg: #f9f9fb;        // fondo clarito
+  --text: #1a1a1a;      // texto oscuro
+}
+
+// 🔠 Fuente general
+body {
+  font-family: "Inter", "Segoe UI", sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+}
+
+// 🔗 Links
+a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+
+  &:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+  }
+}
+
+// 📝 Títulos
+h1, h2, h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  color: var(--primary);
+}
+
+// 📦 Tarjetas de notas en el explorer
+.page-listing {
+  background: white;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: transform 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+}
