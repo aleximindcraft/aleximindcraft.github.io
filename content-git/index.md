@@ -1,9 +1,9 @@
 ---
-title: "Alexi.MindCraft"
+title: Alexi.rar
 draft: false
 ---
 
-# Bienvenido a Alexi.MindCraft
+# Bienvenido a Alexi.rar
 
 **Un espacio donde la mente y la ciencia se encuentran.**
 
