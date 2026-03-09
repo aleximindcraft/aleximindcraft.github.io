@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Alexi.MindCraft",
+    pageTitle: "Alexi.rar",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
