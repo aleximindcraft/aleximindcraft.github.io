@@ -6,12 +6,9 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
-
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Alexi.MindCraft",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -20,11 +17,9 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-
     // 👇 AQUI ESTA LA CORRECCIÓN
     sourceDir: "content-git",
     outputDir: "public",
-
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
