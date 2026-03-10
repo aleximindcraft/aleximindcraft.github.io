@@ -3,39 +3,34 @@ title: Alexi.rar
 draft: false
 ---
 
-# Bienvenido a Alexi.rar
+## [ Programador & Analista de Datos ]
 
-**Un espacio donde la mente y la ciencia se encuentran.**
+Este repositorio digital es la intersección entre la ingeniería de datos y el análisis conductual. Aquí no vas a encontrar consejos genéricos, sino un desglose metódico de cómo operan los sistemas humanos.
 
-Soy Alexi, y este es mi rincón digital para explorar el fascinante mundo de la psicología. Aquí encontrarás reflexiones, análisis de casos, y perspectivas sobre la complejidad de la mente humana.
+## 🔬 Quién soy
 
-## ¿Qué encontrarás aquí?
-
-### 🧠 **Casos de Estudio**
-Análisis profundos de situaciones reales, explorando patrones de comportamiento y procesos mentales desde una perspectiva clínica y humana.
-
-### 💭 **Reflexiones Psicológicas**
-Pensamientos y observaciones sobre temas que van desde la terapia cognitivo-conductual hasta las dinámicas interpersonales.
-
-### 📚 **Notas de Sesión**
-Insights y aprendizajes derivados de la práctica clínica, siempre respetando la confidencialidad y centrándose en los aspectos educativos.
-
-### 🎯 **Herramientas Terapéuticas**
-Técnicas, ejercicios y recursos que pueden ser útiles tanto para profesionales como para aquellos interesados en el crecimiento personal.
+Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consiste en aplicar la lógica técnica y el rigor de la ciencia de datos al estudio del comportamiento humano. Utilizo este espacio para documentar mis marcos teóricos y el sustento técnico detrás de mis proyectos.
 
 ---
 
-## Filosofía del Sitio
+## 🏛️ Estructura del Repositorio
 
-> "Menos preguntas, mejores respuestas. Entre Alexi.MindCraft y el conocimiento."
-
-Este espacio nace de la convicción de que la psicología debe ser accesible, práctica y profundamente humana. Cada entrada busca tender puentes entre la teoría académica y la realidad vivencial.
-
-## Últimas Publicaciones
-
-- **[[Hola waposaurios komostan]]** - Primera sesión: explorando patrones iniciales
-- *Más contenido próximamente...*
+- **Análisis Conductual (Thems YT):** Desgloses metodológicos y sustento técnico de los videos publicados en plataformas digitales. Aquí se encuentra la lógica detrás de la narrativa.
+    
+- **Ingeniería de Información:** Documentación sobre la gestión de este "segundo cerebro", el uso de **Obsidian**, **Quartz** y la automatización de flujos de conocimiento.
+    
+- **Marcos Teóricos:** Notas sobre psicología clínica, TCC y comportamiento humano analizadas desde una perspectiva de sistemas.
+    
 
 ---
 
-*La mente es nuestro territorio más vasto y menos explorado. Acompáñame en este viaje de descubrimiento.*
+## 📑 Contenido Destacado
+
+- **[Estar Solo vs Sentirse Solo: El Análisis de la Señal Social](https://www.google.com/search?q=link-a-la-nota):** Un desglose sobre la diferencia entre el aislamiento físico y la respuesta del sistema nervioso.
+    
+
+---
+
+## 📡 Terminal de Enlaces
+
+[ **GitHub** ] | [ **YouTube** ] | [ **TikTok** ]
