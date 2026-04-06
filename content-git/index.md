@@ -3,7 +3,7 @@ title: Alexi.rar
 draft: false
 ---
 
-> [!info] Current Status: [ Programador & Analista de Datos ]
+<h1 style="margin-top: 20px;">[ <code style="font-size: 0.8em; padding: 2px 6px;">Programador & Analista de Datos</code> ]</h1>
 
 Este repositorio digital es la intersección entre la ingeniería de datos y el análisis conductual. Aquí no vas a encontrar consejos genéricos, sino un desglose metódico de cómo operan los sistemas humanos.
 
