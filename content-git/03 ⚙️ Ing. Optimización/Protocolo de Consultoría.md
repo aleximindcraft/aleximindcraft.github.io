@@ -13,3 +13,12 @@ Has reservado una sesión de 30 minutos de alto impacto. Para garantizar que cad
 - **Finalización del Escaneo:** Concluimos la fase de recolección de información técnica.
     
 - **Arquitectura de Salida:** Los datos recolectados se integran a mi sistema de análisis para ser procesados y transformados en una estructura lógica de ejecución que recibirás posteriormente.
+##  ⚖️ Políticas de Cancelación y Reprogramación
+
+> **Compromiso de Tiempo:** Para garantizar la integridad del flujo de trabajo, cualquier cambio o cancelación debe realizarse con un mínimo de **24 horas hábiles** de anticipación.
+> 
+> - **Cancelaciones:** Si cancelas con más de 24 horas de antelación, el reembolso se procesará automáticamente (menos comisiones de Stripe).
+>     
+> - **Fuera de tiempo:** Si cancelas después de ese periodo o no te presentas a la sesión, el monto de la reserva (**$3.99 / $300**) no será reembolsable. El tiempo de procesamiento de datos ya ha sido asignado y reservado para ti.
+>     
+> - **Reprogramación:** Solo se permite una reprogramación por sesión, siempre que se avise dentro del marco de las 24 horas.
