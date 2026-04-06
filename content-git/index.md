@@ -29,7 +29,7 @@ Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consist
     
 ---
 ### 📡 Terminal de Enlaces
-<a href="https://www.youtube.com/@alexi.rar.oficial" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">[ YouTube ]</code></a>
-<a href="https://www.tiktok.com/@alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">[ TikTok ]</code></a>
-<a href="https://www.instagram.com/alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">[ Instagram ]</code></a>
+<a href="https://www.youtube.com/@alexi.rar.oficial" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📺 [ YouTube ]</code></a>
+<a href="https://www.tiktok.com/@alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📱 [ TikTok ]</code></a>
+<a href="https://www.instagram.com/alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📸 [ Instagram ]</code></a>
 ---
