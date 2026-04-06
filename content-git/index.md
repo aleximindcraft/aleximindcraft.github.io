@@ -17,7 +17,7 @@ Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consist
     
 - **Psicología Clínica (TCC):** Especialización en el modelo **Cognitivo-Conductual** para la identificación de sesgos y reestructuración de procesos mentales.
     
-- **Docencia:** Experiencia en la transmisión de información compleja; si no puedes explicarlo, no lo entiendes.
+- **Docencia:** Experiencia en la transmisión de información compleja; la verdadera habilidad se nota cuando tú eres capaz de explicarle por ejemplo, termodinámica hasta a un niño. 
 -
 **Fuera de la documentación técnica:**
 
