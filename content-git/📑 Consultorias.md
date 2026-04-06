@@ -25,4 +25,4 @@ Como analista de datos y programador, aplico ingeniería inversa al comportamien
     _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._
     
 
-👉 **[Reservar Sesión de Diagnóstico aquí](https://cal.com/alexi.rar/asesorias-30min**
+👉 **[Reservar Sesión de Diagnóstico aquí](https://cal.com/alexi.rar/asesorias-30min)**
