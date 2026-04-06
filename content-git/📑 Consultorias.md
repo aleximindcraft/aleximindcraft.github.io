@@ -8,12 +8,19 @@ Como analista de datos y programador, aplico ingeniería inversa al comportamien
 
 ---
 
-### 🛠️ Lo que resolvemos:
+### 🛠️ Arquitectura de Decisión:
 * **Refactorización de Hábitos:** Eliminación de loops improductivos.
 * **Análisis de Variables Sociales:** Entender el mercado interpersonal.
 * **Soporte Lógico:** Toma de decisiones basada en datos, no en drama.
 
-> [!check] Tarifa Base
-> **$XXX USD** por sesión de 60 minutos. 
+> [!check]  📈 Protocolo de Intervención
+> 
 
-[**Click aquí para agendar vía WhatsApp**](tu-link-aqui)
+- **Sesión de Optimización Estándar (60 min):** `$17 USD`
+    
+    _Enfoque: Refactorización profunda y arquitectura de sistemas._
+    
+- **Sesión de Diagnóstico Inicial (30 min):** `$3.99 USD`
+    
+    _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._
+👉 **[Reservar Sesión de Diagnóstico aquí](https://cal.com/alexi.rar/asesorias-30min)**
