@@ -22,10 +22,7 @@ Como analista de datos y programador, aplico ingeniería inversa al comportamien
     
 - **Sesión de Diagnóstico Inicial (30 min):** `$3.99 USD`
     
-    _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._
-    
-
----
+    _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._    
 ---
 ### ⚡ Consultar Disponibilidad Real-time:
 > [!abstract] **[Reservar Sesión de Diagnóstico Inicial aquí](https://cal.com/alexi.rar/asesorias-30min)**
