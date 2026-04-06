@@ -25,7 +25,7 @@ Muchas veces 'fracasamos' en la vida creyendo que somos feos, no tenemos dinero 
 
 - - **Sesión de Diagnóstico Inicial (30 min):** `**$3.99 USD**`
     
-    _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._    
+    _Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs._ (Disponible sólo el primer mes, saber aprovechar las oportunidades también es una habilidad )   
 - **Sesión de Optimización Estándar (30 min):** `$17 USD`
     
     _Enfoque: Refactorización profunda y arquitectura de sistemas._   
