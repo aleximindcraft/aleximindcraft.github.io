@@ -30,10 +30,7 @@ Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consist
     
 
 ---
-
-## 📡 Terminal de Enlaces
-
-📡 Terminal de Enlaces
-[ GitHub ] | [ YouTube ] | [ TikTok ]
+### 📡 Terminal de Enlaces
+`[ GitHub ]` `[ YouTube ]` `[ TikTok ]`
 
 ---
