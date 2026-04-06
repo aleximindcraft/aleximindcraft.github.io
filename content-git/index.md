@@ -26,7 +26,7 @@ No hago esto porque sea un "héroe". Tampoco estoy buscando validación; mis pad
 Soy un rebelde. Hay mucha gente que cree que serlo es pintar paredes o "ir en contra del sistema" con gritos y berrinches. 🤡 Qué ternura. La realidad a veces es un poco más compleja: **para que puedas ser un rebelde en el sistema tienes que comprenderlo.** Saber en qué capas de la 'web oscura' mental 👀 entrar y cómo moverte en las sombras 🥷 de los procesos que nadie quiere auditar. Para vencer al sistema primero tienes que ser parte de él.
 
 Mi función es analizar esa lógica y ponerte la herramienta más poderosa que existe en tus manos. ☢️ Bombas Atómicas? Claro que no. Obviamente me refiero a la información; Ahora aquí viene la parte que más me gusta, ¿La quieres usar? Qué bueno. ¿La quieres tirar a la basura? Ni modo, así es el mundo. Al final del día, el sistema nos necesita a ambos: a los que triunfan y a los que no. 
-Al final yo también soy un puerko capitalista. 🐷
+Y así llegamos a la parte final, la realidad es que yo también soy un puerko capitalista. 🐷
 
 ---
 
