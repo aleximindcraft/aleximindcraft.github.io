@@ -31,6 +31,5 @@ Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consist
 
 ---
 ### 📡 Terminal de Enlaces
-`[ GitHub ]` `[ [Alexi.MindCraft - YouTube](https://www.youtube.com/@Alexi.MindCraft) ]` `[ TikTok ]`
-
+[ `[ GitHub ]` ](https://github.com/tu-usuario) [ `[ YouTube ]` ](https://www.youtube.com/@Alexi.MindCraft) [ `[ TikTok ]` ](https://www.tiktok.com/@tu-usuario)
 ---
