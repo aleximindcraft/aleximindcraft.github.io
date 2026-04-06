@@ -10,11 +10,11 @@ interface Options {
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
-    const links = opts?.links ?? []
+    const links = opts?.links ?? {}
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          © {year} **Alexi.rar** | Ingeniería de Optimización Humana.
+          © {year} <strong>Alexi.rar</strong> | Ingeniería de Optimización Humana.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
