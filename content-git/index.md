@@ -46,9 +46,7 @@ Al final yo también soy un puerko capitalista. 🐷
     
 ---
 ### 📡 Terminal de Enlaces
-[ `📺 [ YouTube ]` ](https://www.youtube.com/@alexi.rar.oficial)
-[ `📱 [ TikTok ]` ](https://www.tiktok.com/@alexi.rar)
-[ `📸 [ Instagram ]` ](https://www.instagram.com/allexi.rar)
+
 <div class="no-index">
 <a href="https://www.youtube.com/@alexi.rar.oficial" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📺 [ YouTube ]</code></a>
 <a href="https://www.tiktok.com/@alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📱 [ TikTok ]</code></a>
