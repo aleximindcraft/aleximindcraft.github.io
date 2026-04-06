@@ -3,7 +3,7 @@ title: Alexi.rar
 draft: false
 ---
 
-## [ Programador & Analista de Datos ]
+> [!info] Current Status: [ Programador & Analista de Datos ]
 
 Este repositorio digital es la intersección entre la ingeniería de datos y el análisis conductual. Aquí no vas a encontrar consejos genéricos, sino un desglose metódico de cómo operan los sistemas humanos.
 
@@ -33,4 +33,7 @@ Soy **Alexi**, analista de datos y programador de profesión. Mi enfoque consist
 
 ## 📡 Terminal de Enlaces
 
-[ **GitHub** ] | [ **YouTube** ] | [ **TikTok** ]
+📡 Terminal de Enlaces
+[ GitHub ] | [ YouTube ] | [ TikTok ]
+
+---
