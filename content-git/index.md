@@ -2,7 +2,45 @@
 title: Alexi.rar
 draft: false
 ---
-
+<div style="text-align:center; margin:48px 0 36px 0; font-family:JetBrains Mono, monospace;">  
+  
+<div style="display:flex; align-items:center; justify-content:center; line-height:1;">  
+  
+<span style="  
+color:#ff4040;  
+font-size:1.8em;  
+font-weight:900;  
+margin-right:8px;  
+position:relative;  
+top:-1px;  
+">  
+>_  
+</span>  
+  
+<span style="  
+color:#ffffff;  
+font-size:3em;  
+font-weight:900;  
+letter-spacing:-2px;  
+">  
+Alexi<span style="color:#ff4040;">.rar</span>  
+</span>  
+  
+</div>  
+  
+<div style="  
+width:72px;  
+height:2px;  
+margin:12px auto 0 auto;  
+border-radius:999px;  
+background:linear-gradient(  
+90deg,  
+rgba(255,64,64,.95),  
+rgba(255,64,64,.08)  
+);  
+"></div>  
+  
+</div>
 <h1 style="margin-top: 20px;">[ <code style="font-size: 0.8em; padding: 2px 6px;">💻 Programador & Analista de Datos</code> ]</h1>
 
 Este repositorio digital es la intersección entre la ingeniería de datos y el análisis conductual. Aquí no vas a encontrar consejos genéricos, sino un desglose metódico de cómo operan los sistemas humanos.
@@ -52,3 +90,4 @@ Y así llegamos a la parte final, la realidad es que yo también soy un puerko c
 <a href="https://www.tiktok.com/@alexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📱 [ TikTok ]</code></a>
 <a href="https://www.instagram.com/allexi.rar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><code style="padding: 2px 6px;">📸 [ Instagram ]</code></a>
 </div>
+
