@@ -37,9 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
       { Component: Component.ReaderMode() },
     ],
   }),
-    Component.Explorer({
-  filterFn: (node) => !node.name.startsWith("_"),
-}),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -66,4 +64,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
-}
+} 
