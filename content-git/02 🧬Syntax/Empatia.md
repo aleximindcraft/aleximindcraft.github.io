@@ -121,7 +121,26 @@ color:rgba(255,255,255,.90);
 text-shadow:
 0 0 1px rgba(255,255,255,.04);
 ">
-gol
+🧠 La empatía es la capacidad de comprender el estado emocional de otra persona, aunque eso no garantice una intención positiva.
+
+- Detectar emociones rápidamente.
+- Comprender motivaciones ocultas.
+- Generar conexión emocional.
+- Riesgo: manipulación emocional.
+
+👉 [[Asura]]
+👉 [[Empatía cognitiva]]
+
+![400](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)
+
+> A veces entender a alguien no significa querer ayudarlo.
+
+<iframe width="100%" height="315"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
 </div>
 </div>
 <div style="
@@ -176,10 +195,30 @@ color:rgba(255,255,255,.90);
 text-shadow:
 0 0 1px rgba(255,255,255,.04);
 ">
-da
+🧠 La empatía es la capacidad de comprender o percibir el estado emocional de otra persona, aunque eso no siempre implique ayudarla.
+
+```mermaid
+graph LR
+A[Empatía Cognitiva] --> B[Comprender emociones]
+A --> C[Analizar conducta]
+D[Empatía Afectiva] --> E[Sentir emociones]
+D --> F[Conexión emocional]
+B --> G[Puede usarse para manipular]
+```
 </div>
 </div>
 
 
 
 
+
+🧠 La empatía es la capacidad de comprender o percibir el estado emocional de otra persona, aunque eso no siempre implique ayudarla.
+
+```mermaid
+graph LR
+A[Empatía Cognitiva] --> B[Comprender emociones]
+A --> C[Analizar conducta]
+D[Empatía Afectiva] --> E[Sentir emociones]
+D --> F[Conexión emocional]
+B --> G[Puede usarse para manipular]
+```
