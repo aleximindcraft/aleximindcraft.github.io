@@ -17,10 +17,10 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    // 👇 AQUI ESTA LA CORRECCIÓN
     sourceDir: "content-git",
     outputDir: "public",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    // 👇 AQUÍ SE AGREGÓ _SYSTEM PARA SEGUIR TU MISMO PATRÓN NATIVO
+    ignorePatterns: ["private", "templates", ".obsidian", "_SYSTEM"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -91,7 +91,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Esto genera previews para links, si quieres más rápido lo puedes comentar
       Plugin.CustomOgImages(),
     ],
   },
