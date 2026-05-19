@@ -65,6 +65,20 @@ Optimización de Sistemas Mentales</div>
       Como analista de datos y programador, aplico ingeniería inversa al comportamiento humano. Si tu "código" interno tiene bugs que te impiden escalar, aquí los debugueamos.
     </p>
   </div>
+  <img  
+src="https://res.cloudinary.com/dam8umsfx/image/upload/q_auto/f_auto/v1779167577/Portada_Consul_c5bkoq.png"  
+alt="Arquitectura mental futurista"  
+style="  
+width:100%;  
+max-width:920px;  
+display:block;  
+margin:0 auto 34px auto;  
+border-radius:24px;  
+box-shadow:  
+0 0 30px rgba(0,0,0,.35),  
+0 0 60px rgba(255,77,77,.08);  
+"  
+>
   <!-- ========== ARQUITECTURA ========== -->
   <div style="
     margin: 0 auto 34px auto;
@@ -162,16 +176,6 @@ Optimización de Sistemas Mentales</div>
         Muchas veces 'fracasamos' en la vida creyendo que somos feos, no tenemos dinero o que no tenemos privilegios y la verdad es que no, a veces es más simple todo pero más triste. A veces no tienes ni idea de cuáles son las reglas del juego, el juego de la vida, el juego del éxito, el juego de las relaciones sociales. Y si juegas sin saberte las reglas obviamente vas a perder.
       </p>
     </div>
-    ```mermaid  
-graph TD  
-A[Sistema Actual con Bugs] --> B[Diagnóstico Inicial $3.99]  
-B --> C{Anomalías Detectadas}  
-C -->|Patrones| D[Refactorización de Hábitos]  
-C -->|Variables| E[Análisis Social]  
-D --> F[Optimización Continua]  
-E --> F  
-F --> G((Nuevo Sistema Mental))  
-```
   </div>
   <!-- ========== PRECIOS ========== -->
   <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 34px;">
@@ -278,3 +282,27 @@ F --> G((Nuevo Sistema Mental))
     </a>
   </div>
 </div>
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#ff4d4d', 'lineColor': '#7fd6ff', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f1a2f'}}}%%
+graph TD
+    A["🧩 Ruido / Confusión / Patrones"]:::ruido --> B["🔍 Análisis de Variables"]:::analisis
+
+    B --> C["⚡ Reestructuración"]:::estrategia
+    B --> D["📈 Estrategia Social"]:::estrategia
+    B --> E["🧠 Claridad Mental"]:::estrategia
+    B --> F["🎯 Dirección"]:::estrategia
+
+    C --> G["No existen decisiones<br/>buenas o malas"]:::cierre
+    D --> G
+    E --> G
+    F --> G
+
+    G --> H["Solo consecuencias<br/>y conciencia"]:::cierre
+
+    classDef ruido fill:#2d1111,stroke:#ff4d4d,stroke-width:2px,color:#ffffff
+    classDef analisis fill:#0f1e2d,stroke:#7fd6ff,stroke-width:2px,color:#ffffff
+    classDef estrategia fill:#1f1a0f,stroke:#ffb84d,stroke-width:2px,color:#ffffff
+    classDef cierre fill:#1a1a1a,stroke:#ffffff,stroke-width:1.5px,color:#ffffff
+```

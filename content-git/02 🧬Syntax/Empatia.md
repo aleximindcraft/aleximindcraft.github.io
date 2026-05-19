@@ -222,3 +222,20 @@ D[Empatía Afectiva] --> E[Sentir emociones]
 D --> F[Conexión emocional]
 B --> G[Puede usarse para manipular]
 ```
+
+```mermaid
+graph TD
+
+A[Anomalía]
+B[Refactorización]
+C[Sistema Optimizado]
+
+class A danger
+class B warning
+class C success
+
+classDef danger fill:#2b0d0d,stroke:#ff4d4d,color:#fff
+classDef warning fill:#2b220d,stroke:#ffb84d,color:#fff
+classDef success fill:#0d1f2b,stroke:#7fd6ff,color:#fff
+
+```

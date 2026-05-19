@@ -201,4 +201,122 @@ da
 
 
 
+```mermaid
 
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#05070b",
+    "primaryColor": "#0b1118",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#7fd6ff",
+    "lineColor": "#ff4d4d",
+    "fontFamily": "JetBrains Mono, monospace"
+  }
+} }%%
+
+flowchart LR
+
+    A["INPUT<br/><br/>ruido mental<br/>malos patrones"]
+    B["ANÁLISIS<br/><br/>hábitos<br/>entorno<br/>decisiones"]
+    C["REFACTOR<br/><br/>eliminación<br/>de bugs"]
+    D["OUTPUT<br/><br/>claridad<br/>ejecución"]
+
+    A ==> B ==> C ==> D
+
+    classDef red fill:#100608,stroke:#ff4d4d,color:#ffffff,stroke-width:2px;
+    classDef cyan fill:#07131a,stroke:#7fd6ff,color:#ffffff,stroke-width:2px;
+    classDef gold fill:#161109,stroke:#ffb84d,color:#ffffff,stroke-width:2px;
+
+    class A red;
+    class B,C cyan;
+    class D gold;
+
+    linkStyle 0 stroke:#ff4d4d,stroke-width:3px;
+    linkStyle 1 stroke:#7fd6ff,stroke-width:3px;
+    linkStyle 2 stroke:#ffb84d,stroke-width:3px;
+```
+
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#05070b",
+    "primaryTextColor": "#ffffff",
+    "lineColor": "#8b949e",
+    "fontFamily": "JetBrains Mono, monospace"
+  }
+}}%%
+
+flowchart LR
+
+    A["🧠 INPUT<br/><br/>ruido mental<br/>malos hábitos<br/>confusión social"]
+
+    B["🔍 DIAGNÓSTICO<br/><br/>análisis de patrones<br/>entorno<br/>decisiones"]
+
+    C["⚙️ REFACTOR<br/><br/>eliminación de bugs<br/>arquitectura mental<br/>control emocional"]
+
+    D["📈 OUTPUT<br/><br/>claridad estratégica<br/>mejor ejecución<br/>ventaja social"]
+
+    A --> B --> C --> D
+
+    classDef red fill:#1a0b0b,stroke:#ff4d4d,color:#ffffff,stroke-width:3px;
+    classDef blue fill:#071520,stroke:#58c4ff,color:#ffffff,stroke-width:3px;
+    classDef cyan fill:#071a1a,stroke:#00e0c6,color:#ffffff,stroke-width:3px;
+    classDef gold fill:#1c1608,stroke:#ffcc4d,color:#ffffff,stroke-width:3px;
+
+    class A red;
+    class B blue;
+    class C cyan;
+    class D gold;
+
+    linkStyle 0 stroke:#ff4d4d,stroke-width:3px;
+    linkStyle 1 stroke:#58c4ff,stroke-width:3px;
+    linkStyle 2 stroke:#ffcc4d,stroke-width:3px;
+```
+
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#05070b",
+    "primaryTextColor": "#ffffff",
+    "lineColor": "#7fd6ff",
+    "fontFamily": "JetBrains Mono, monospace",
+    "fontSize": "17px"
+  },
+  "flowchart": {
+    "nodeSpacing": 45,
+    "rankSpacing": 60,
+    "curve": "stepBefore"
+  }
+}}%%
+
+flowchart TD
+
+    A["🧠 HUMAN INPUT<br/><br/>ruido mental<br/>malos patrones"]
+
+    B["🔍 DIAGNOSTIC ENGINE<br/><br/>hábitos<br/>entorno<br/>decisiones"]
+
+    C["⚙️ SYSTEM REFACTOR<br/><br/>eliminación de bugs<br/>arquitectura mental"]
+
+    D["📈 EXECUTION MODE<br/><br/>claridad<br/>control<br/>ventaja social"]
+
+    A ==> B ==> C ==> D
+
+    classDef input fill:#16090b,stroke:#ff4d4d,color:#ffffff,stroke-width:3px;
+    classDef analysis fill:#071520,stroke:#58c4ff,color:#ffffff,stroke-width:3px;
+    classDef refactor fill:#081918,stroke:#00e0c6,color:#ffffff,stroke-width:3px;
+    classDef output fill:#1b1407,stroke:#ffcc4d,color:#ffffff,stroke-width:3px;
+
+    class A input;
+    class B analysis;
+    class C refactor;
+    class D output;
+
+    linkStyle 0 stroke:#ff4d4d,stroke-width:4px;
+    linkStyle 1 stroke:#58c4ff,stroke-width:4px;
+    linkStyle 2 stroke:#ffcc4d,stroke-width:4px;
+```
