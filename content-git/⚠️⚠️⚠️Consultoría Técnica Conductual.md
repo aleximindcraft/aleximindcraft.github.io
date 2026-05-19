@@ -1,6 +1,3 @@
----
-title: "💼 Consultoría Técnica Conductual"
----
 <div style="
   max-width: 920px;
   margin: 0 auto;
