@@ -98,7 +98,7 @@ Muchas veces 'fracasamos' en la vida creyendo que somos feos, no tenemos dinero 
     _Enfoque: Refactorización profunda y arquitectura de sistemas._   
 
 ---
-> [!abstract] <h3 style="margin:0; display:inline;"><strong><a href="[https://cal.com/alexi.rar/asesorias-30min](https://cal.com/alexi.rar/asesorias-30min-3.99)" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">Consultar disponibilidad Real-Time ↗</a></strong></h3>
+> [!abstract] <h3 style="margin:0; display:inline;"><strong><a href="[[https://cal.com/alexi.rar/asesorias-30min](https://cal.com/alexi.rar/asesorias-30min-3.99)](https://cal.com/alexi.rar/asesorias-30min-3.99)" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">Consultar disponibilidad Real-Time ↗</a></strong></h3>
 
 
 
@@ -349,7 +349,7 @@ Optimización de Sistemas Mentales</div>
     border: 1px solid rgba(255,255,255,.08);
     border-radius: 20px;
     box-shadow: 0 0 28px rgba(0,0,0,.4);
-  ">    <a href="[https://cal.com/alexi.rar/asesorias-30min](https://cal.com/alexi.rar/asesorias-30min-3.99)" target="_blank" rel="noopener noreferrer" style="
+  ">    <a href="[[https://cal.com/alexi.rar/asesorias-30min](https://cal.com/alexi.rar/asesorias-30min-3.99)](https://cal.com/alexi.rar/asesorias-30min-3.99)" target="_blank" rel="noopener noreferrer" style="
       display: inline-block;
       font-family: 'JetBrains Mono', monospace;
       font-size: 1.15em;
@@ -370,3 +370,5 @@ Optimización de Sistemas Mentales</div>
     </a>
   </div>
 </div>
+
+https://cal.com/alexi.rar/asesorias-30min-3.99
