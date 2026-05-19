@@ -49,7 +49,7 @@
           color: #ffffff;
           line-height: 1.02;
           text-shadow: 0 0 1px rgba(255,255,255,.92), 0 0 8px rgba(255,255,255,.18), 0 0 18px rgba(255,255,255,.08);
-        ">Protocolo</div>
+        ">Protocol</div>
       </div>
     </div>
     <p style="
