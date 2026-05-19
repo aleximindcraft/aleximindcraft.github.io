@@ -107,14 +107,6 @@ Optimización de Sistemas Mentales</div>
         <span style="color: rgba(255,255,255,.8);"> Toma de decisiones basada en datos, no en drama.</span>
       </div>
     </div>
-    graph TD
-  A[Sistema Actual con Bugs] --> B[Diagnóstico Inicial $3.99]
-  B --> C{Anomalías Detectadas}
-  C -->|Patrones| D[Refactorización de Hábitos]
-  C -->|Variables| E[Análisis Social]
-  D --> F[Optimización Continua]
-  E --> F
-  F --> G((Nuevo Sistema Mental))
   </div>
   <!-- ========== PROTOCOLO ========== -->
   <div style="
@@ -170,6 +162,16 @@ Optimización de Sistemas Mentales</div>
         Muchas veces 'fracasamos' en la vida creyendo que somos feos, no tenemos dinero o que no tenemos privilegios y la verdad es que no, a veces es más simple todo pero más triste. A veces no tienes ni idea de cuáles son las reglas del juego, el juego de la vida, el juego del éxito, el juego de las relaciones sociales. Y si juegas sin saberte las reglas obviamente vas a perder.
       </p>
     </div>
+    ```mermaid  
+graph TD  
+A[Sistema Actual con Bugs] --> B[Diagnóstico Inicial $3.99]  
+B --> C{Anomalías Detectadas}  
+C -->|Patrones| D[Refactorización de Hábitos]  
+C -->|Variables| E[Análisis Social]  
+D --> F[Optimización Continua]  
+E --> F  
+F --> G((Nuevo Sistema Mental))  
+```
   </div>
   <!-- ========== PRECIOS ========== -->
   <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 34px;">
