@@ -249,8 +249,10 @@ box-shadow:
       </div>
     </div>
   </div>
-  <!-- ========== CTA FINAL ========== -->
-  <div style="
+</div>
+
+
+<div style="
     text-align: center;
     margin: 40px auto 60px auto;
     padding: 30px;
@@ -278,7 +280,7 @@ box-shadow:
     >      >_ Consultar disponibilidad Real-Time ↗
     </a>
   </div>
-</div>
+
 
 
 ```mermaid
@@ -303,3 +305,57 @@ graph TD
     classDef estrategia fill:#1f1a0f,stroke:#ffb84d,stroke-width:2px,color:#ffffff
     classDef cierre fill:#1a1a1a,stroke:#ffffff,stroke-width:1.5px,color:#ffffff
 ```
+
+
+<div style="
+    text-align: center;
+    margin: 40px auto 60px auto;
+    padding: 30px;
+    background: rgba(0,0,0,.35);
+    border: 1px solid rgba(255,255,255,.08);
+    border-radius: 20px;
+    box-shadow: 0 0 28px rgba(0,0,0,.4);
+">
+    <!-- BOTÓN CON ANIMACIÓN LIGERA -->
+    <a href="https://cal.com/alexi.rar/asesorias-30min-3.99" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.15em;
+      font-weight: 800;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 16px 36px;
+      border: 1px solid rgba(255,77,77,.6);
+      border-radius: 14px;
+      background: rgba(255,40,40,.1);
+      box-shadow: 0 0 18px rgba(255,40,40,.2);
+      transition: all .25s ease;
+      position: relative;
+      animation: pulse-shadow 2.8s ease-in-out infinite;
+    " 
+    onmouseover="this.style.background='rgba(255,40,40,.25)'; this.style.boxShadow='0 0 40px rgba(255,40,40,.7)'; this.style.borderColor='#ff4d4d';"
+    onmouseout="this.style.background='rgba(255,40,40,.1)'; this.style.boxShadow='0 0 18px rgba(255,40,40,.2)'; this.style.borderColor='rgba(255,77,77,.6)';">
+        >_ Iniciar Diagnóstico (30 min · $3.99)
+    </a>
+    <!-- FRASE RETADORA -->
+    <p style="
+        margin-top: 18px;
+        font-family: 'JetBrains Mono', monospace;
+        font-size: .75em;
+        letter-spacing: 1px;
+        color: rgba(255,255,255,.4);
+        line-height: 1.6;
+    ">
+        ⚡ Precio beta · Slots limitados · <span style="color: #ff7b7b;">No es para todos.</span>
+    </p>
+</div>
+
+<!-- ANIMACIÓN (ligerísima, solo sombra) -->
+<style>
+@keyframes pulse-shadow {
+    0%, 100% { box-shadow: 0 0 18px rgba(255,40,40,.2); }
+    50% { box-shadow: 0 0 30px rgba(255,40,40,.45); }
+}
+</style>
