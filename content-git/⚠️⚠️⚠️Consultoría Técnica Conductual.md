@@ -63,7 +63,7 @@ Optimización de Sistemas Mentales</div>
     </p>
   </div>
   <img  
-src="https://res.cloudinary.com/dam8umsfx/image/upload/q_auto/f_auto/v1779167577/Portada_Consul_c5bkoq.png"  
+src="https://res.cloudinary.com/dam8umsfx/image/upload/q_auto/f_auto/v1779243415/Portada_Consul_o0eevl.png"  
 alt="Arquitectura mental futurista"  
 style="  
 width:100%;  
