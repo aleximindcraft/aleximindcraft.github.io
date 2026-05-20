@@ -252,34 +252,19 @@ box-shadow:
 </div>
 
 
-<div style="
-    text-align: center;
-    margin: 40px auto 60px auto;
-    padding: 30px;
-    background: rgba(0,0,0,.35);
-    border: 1px solid rgba(255,255,255,.08);
-    border-radius: 20px;
-    box-shadow: 0 0 28px rgba(0,0,0,.4);
-  ">    <a href="https://cal.com/alexi.rar/asesorias-30min-3.99" target="_blank" rel="noopener noreferrer" style="
-      display: inline-block;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 1.15em;
-      font-weight: 700;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: #ffffff;
-      text-decoration: none;
-      padding: 16px 32px;
-      border: 1px solid rgba(255,77,77,.6);
-      border-radius: 14px;
-      background: rgba(255,40,40,.08);
-      box-shadow: 0 0 18px rgba(255,40,40,.15);
-      transition: all .3s ease;
-    "     onmouseover="this.style.background='rgba(255,40,40,.18)'; this.style.boxShadow='0 0 30px rgba(255,40,40,.35)';"
-    onmouseout="this.style.background='rgba(255,40,40,.08)'; this.style.boxShadow='0 0 18px rgba(255,40,40,.15)';"
-    >      >_ Consultar disponibilidad Real-Time ↗
-    </a>
-  </div>
+
+<div style="text-align:center;margin:40px auto 60px auto;padding:30px;background:rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.08);border-radius:20px;box-shadow:0 0 28px rgba(0,0,0,.4);">
+  <a href="https://cal.com/alexi.rar/asesorias-30min-3.99" target="_blank" rel="noopener noreferrer"
+     style="display:inline-flex;align-items:center;justify-content:center;gap:14px;font-family:'JetBrains Mono', monospace;font-size:1.25em;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:#fff;text-decoration:none;padding:18px 38px;border:1px solid rgba(255,77,77,.7);border-radius:14px;background:rgba(255,40,40,.12);box-shadow:0 0 22px rgba(255,40,40,.25);transition:all .25s ease;line-height:1;"
+     onmouseover="this.style.background='rgba(255,40,40,.28)';this.style.boxShadow='0 0 45px rgba(255,40,40,.8)';this.style.borderColor='#ff4d4d';"
+     onmouseout="this.style.background='rgba(255,40,40,.12)';this.style.boxShadow='0 0 22px rgba(255,40,40,.25)';this.style.borderColor='rgba(255,77,77,.7)';">
+    <span style="font-size:1.1em;">▶</span>
+    Iniciar diagnóstico
+  </a>
+  <p style="margin-top:18px;font-family:'JetBrains Mono', monospace;font-size:.78em;letter-spacing:1px;color:rgba(255,255,255,.5);line-height:1.6;">
+    ⏳ 30 min · $3.99 · Cupos limitados · <span style="color:#ff7b7b;font-weight:700;">No es para todos.</span>
+  </p>
+</div>
 
 
 
@@ -307,55 +292,3 @@ graph TD
 ```
 
 
-<div style="
-    text-align: center;
-    margin: 40px auto 60px auto;
-    padding: 30px;
-    background: rgba(0,0,0,.35);
-    border: 1px solid rgba(255,255,255,.08);
-    border-radius: 20px;
-    box-shadow: 0 0 28px rgba(0,0,0,.4);
-">
-    <!-- BOTÓN CON ANIMACIÓN LIGERA -->
-    <a href="https://cal.com/alexi.rar/asesorias-30min-3.99" target="_blank" rel="noopener noreferrer" style="
-      display: inline-block;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 1.15em;
-      font-weight: 800;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      color: #ffffff;
-      text-decoration: none;
-      padding: 16px 36px;
-      border: 1px solid rgba(255,77,77,.6);
-      border-radius: 14px;
-      background: rgba(255,40,40,.1);
-      box-shadow: 0 0 18px rgba(255,40,40,.2);
-      transition: all .25s ease;
-      position: relative;
-      animation: pulse-shadow 2.8s ease-in-out infinite;
-    " 
-    onmouseover="this.style.background='rgba(255,40,40,.25)'; this.style.boxShadow='0 0 40px rgba(255,40,40,.7)'; this.style.borderColor='#ff4d4d';"
-    onmouseout="this.style.background='rgba(255,40,40,.1)'; this.style.boxShadow='0 0 18px rgba(255,40,40,.2)'; this.style.borderColor='rgba(255,77,77,.6)';">
-        >_ Iniciar Diagnóstico (30 min · $3.99)
-    </a>
-    <!-- FRASE RETADORA -->
-    <p style="
-        margin-top: 18px;
-        font-family: 'JetBrains Mono', monospace;
-        font-size: .75em;
-        letter-spacing: 1px;
-        color: rgba(255,255,255,.4);
-        line-height: 1.6;
-    ">
-        ⚡ Precio beta · Slots limitados · <span style="color: #ff7b7b;">No es para todos.</span>
-    </p>
-</div>
-
-<!-- ANIMACIÓN (ligerísima, solo sombra) -->
-<style>
-@keyframes pulse-shadow {
-    0%, 100% { box-shadow: 0 0 18px rgba(255,40,40,.2); }
-    50% { box-shadow: 0 0 30px rgba(255,40,40,.45); }
-}
-</style>
