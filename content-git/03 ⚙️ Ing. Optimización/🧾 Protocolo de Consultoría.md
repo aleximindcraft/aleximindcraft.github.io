@@ -207,44 +207,6 @@ text-align:center;
 
 
 
+![](https://res.cloudinary.com/dam8umsfx/image/upload/f_auto/q_auto/v1779337090/tduodw21vf3mkbv5ovho.png)
 
 
-
-
-Protocol
-```mermaid
-graph TD
-  %% ── DEFINICIONES DE COLORES NEÓN ──
-  classDef neonGreen fill:#0a0c0f,stroke:#a3ff00,stroke-width:2.5px,color:#a3ff00
-  classDef neonCyan fill:#0a0c0f,stroke:#00f0ff,stroke-width:2.5px,color:#00f0ff
-  classDef neonOrange fill:#0a0c0f,stroke:#ff8c00,stroke-width:2.5px,color:#ff8c00
-  classDef neonPink fill:#0a0c0f,stroke:#ff2a6d,stroke-width:2.5px,color:#ff2a6d
-  classDef neonPurple fill:#0a0c0f,stroke:#c350ff,stroke-width:2.5px,color:#c350ff
-  classDef neonYellow fill:#0a0c0f,stroke:#ffe600,stroke-width:2.5px,color:#ffe600
-  classDef neonRed fill:#0a0c0f,stroke:#ff3a3a,stroke-width:2.5px,color:#ff3a3a
-  classDef divider fill:transparent,stroke:none,color:transparent
-  %% ── FASE 1 ──
-  subgraph Fase1["⚡ FASE 1 · SESIÓN EN VIVO (30 min)"]
-    direction TB
-    N1["🎙️ 01 · Sesión en vivo - Punto de inicio"]:::neonGreen
-    N2["📊 02 · Extracción de variables - Escuchar y preguntar lo importante"]:::neonCyan
-    N3["⚖️ 03 · Mapeo de variables - Tu versión vs realidad"]:::neonOrange
-    N4["🔧 04 · Ajustes finales - Expectativas claras antes de terminar"]:::neonPink
-    N1 --> N2 --> N3 --> N4
-  end
-  %% ── CONEXIÓN INVISIBLE ──
-  DIV[" "]:::divider
-  N4 --> DIV
-  %% ── FASE 2 ──
-  subgraph Fase2["🧠 FASE 2 · ANÁLISIS & ENTREGA (Asíncrono)"]
-    direction TB
-    N5["📝 05 · Transcripción y Filtrado - Llamada a texto, auditoría limpia"]:::neonPurple
-    N6["📈 06 · Análisis, Probabilidad y Estadística - Cruce de variables, cuellos de botella"]:::neonYellow
-    N7["📦 07 · Entrega Final (PDF) - Estructura lógica + mapa de ruta para Obsidian"]:::neonRed
-    N5 --> N6 --> N7
-  end
-  DIV --> N5
-  %% ── ESTILOS DE LOS SUBGRAFOS ──
-  style Fase1 fill:#0d1117,stroke:#a3ff00,stroke-width:1.5px,color:#ffffff,rx:12
-  style Fase2 fill:#0d1117,stroke:#ff2a6d,stroke-width:1.5px,color:#ffffff,rx:12
-```
