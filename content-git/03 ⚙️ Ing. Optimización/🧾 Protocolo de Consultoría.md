@@ -223,7 +223,6 @@ graph TD
   classDef neonYellow fill:#0a0c0f,stroke:#ffe600,stroke-width:2.5px,color:#ffe600
   classDef neonRed fill:#0a0c0f,stroke:#ff3a3a,stroke-width:2.5px,color:#ff3a3a
   classDef divider fill:transparent,stroke:none,color:transparent
-
   %% ── FASE 1 ──
   subgraph Fase1["⚡ FASE 1 · SESIÓN EN VIVO (30 min)"]
     direction TB
@@ -233,11 +232,9 @@ graph TD
     N4["🔧 04 · Ajustes finales - Expectativas claras antes de terminar"]:::neonPink
     N1 --> N2 --> N3 --> N4
   end
-
   %% ── CONEXIÓN INVISIBLE ──
   DIV[" "]:::divider
   N4 --> DIV
-
   %% ── FASE 2 ──
   subgraph Fase2["🧠 FASE 2 · ANÁLISIS & ENTREGA (Asíncrono)"]
     direction TB
@@ -246,9 +243,7 @@ graph TD
     N7["📦 07 · Entrega Final (PDF) - Estructura lógica + mapa de ruta para Obsidian"]:::neonRed
     N5 --> N6 --> N7
   end
-
   DIV --> N5
-
   %% ── ESTILOS DE LOS SUBGRAFOS ──
   style Fase1 fill:#0d1117,stroke:#a3ff00,stroke-width:1.5px,color:#ffffff,rx:12
   style Fase2 fill:#0d1117,stroke:#ff2a6d,stroke-width:1.5px,color:#ffffff,rx:12
