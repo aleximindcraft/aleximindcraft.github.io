@@ -103,3 +103,265 @@ text-align:center;
     <div style="font-size:1.06em;line-height:1.9;color:rgba(255,255,255,.92);">📚 Papers, libros, validación teórica</div>
   </div>
 </div>
+1
+<div style="
+margin:72px auto 46px auto;
+padding-bottom:28px;
+border-bottom:1px solid rgba(255,255,255,.14);
+box-shadow:0 10px 30px rgba(0,0,0,.18);
+max-width:920px;
+text-align:center;
+position:relative;
+">
+  <!-- Línea inferior difuminada -->
+  <div style="
+  position:absolute;
+  bottom:-1px;
+  left:50%;
+  transform:translateX(-50%);
+  width:180px;
+  height:1px;
+  background:linear-gradient(90deg,transparent,rgba(255,77,77,.75),transparent);
+  filter:blur(.4px);
+  "></div>
+
+  <!-- Contenido principal -->
+  <div style="
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  gap:16px;
+  font-family:'IBM Plex Mono', monospace;
+  line-height:1;
+  ">
+    <!-- Borde izquierdo sutil (el upgrade) -->
+    <div style="
+    width:3px;
+    height:100%;
+    min-height:60px;
+    background:#ff4d4d;
+    border-radius:2px;
+    margin-top:4px;
+    flex-shrink:0;
+    box-shadow:0 0 8px rgba(255,77,77,.3);
+    "></div>
+    
+    <div>
+      <div style="
+      font-size:.92em;
+      letter-spacing:3px;
+      text-transform:uppercase;
+      color:rgba(255,255,255,.62);
+      margin-bottom:18px;
+      font-weight:700;
+      text-shadow:0 0 2px rgba(255,255,255,.10);
+      ">Syntax</div>
+      <div style="
+      font-size:3.55em;
+      font-weight:900;
+      letter-spacing:-2px;
+      color:#ffffff;
+      line-height:1.02;
+      text-shadow:0 0 1px rgba(255,255,255,.92),0 0 8px rgba(255,255,255,.18),0 0 18px rgba(255,255,255,.08);
+      ">fassad</div>
+    </div>
+  </div>
+</div>
+111
+<div style="
+max-width:920px;
+margin:72px auto 46px auto;
+padding:30px 32px 28px 32px;
+border-left:4px solid #ff4d4d;
+border-bottom:1px solid rgba(255,77,77,.25);
+box-shadow:0 10px 30px rgba(0,0,0,.18), inset 0 0 0 rgba(255,77,77,.05);
+text-align:center;
+position:relative;
+">
+  <!-- Línea superior horizontal sutil -->
+  <div style="
+  position:absolute;
+  top:0;
+  left:50%;
+  transform:translateX(-50%);
+  width:120px;
+  height:1px;
+  background:linear-gradient(90deg,transparent,rgba(255,77,77,.6),transparent);
+  filter:blur(.4px);
+  "></div>
+
+  <!-- Contenido principal -->
+  <div style="
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  gap:16px;
+  font-family:'IBM Plex Mono', monospace;
+  line-height:1;
+  ">
+    <!-- Prompt neón -->
+    <span style="
+    color:#ff4d4d;
+    font-size:1.55em;
+    font-weight:800;
+    position:relative;
+    top:5px;
+    text-shadow:
+      0 0 4px rgba(255,255,255,.28),
+      0 0 10px rgba(255,77,77,.22);
+    ">>_</span>
+    
+    <div>
+      <!-- Sello de sección -->
+      <div style="
+      font-size:.92em;
+      letter-spacing:3px;
+      text-transform:uppercase;
+      color:rgba(255,255,255,.62);
+      margin-bottom:18px;
+      font-weight:700;
+      text-shadow:
+        0 0 2px rgba(255,255,255,.10);
+      ">Syntax</div>
+      
+      <!-- Título grande -->
+      <div style="
+      font-size:3.55em;
+      font-weight:900;
+      letter-spacing:-2px;
+      color:#ffffff;
+      line-height:1.02;
+      text-shadow:
+        0 0 1px rgba(255,255,255,.92),
+        0 0 8px rgba(255,255,255,.18),
+        0 0 18px rgba(255,255,255,.08);
+      ">Título del video / tema</div>
+    </div>
+  </div>
+</div>
+
+
+    <div style="
+      flex: 1 1 280px;
+      background: linear-gradient(180deg, rgba(127,214,255,.06), rgba(127,214,255,.02));
+      border: 1px solid rgba(127,214,255,.2);
+      border-left: 3px solid #7fd6ff;
+      border-radius: 18px;
+      padding: 28px 24px;
+      position: relative;
+      box-shadow: 0 0 20px rgba(127,214,255,.05);
+    ">
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: .8em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #8bddff;
+        margin-bottom: 16px;
+        font-weight: 800;
+      ">🧠 Optimización Estándar (30 min)</div>
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 2.6em;
+        font-weight: 900;
+        color: #ffffff;
+        margin-bottom: 12px;
+        text-shadow: 0 0 12px rgba(127,214,255,.3);
+      ">$17 USD</div>
+      <div style="
+        color: rgba(255,255,255,.65);
+        font-size: .9em;
+        line-height: 1.7;
+      ">        Enfoque: Refactorización profunda y arquitectura de sistemas.
+      </div>
+    </div>
+  </div>
+<div style="text-align:center;margin:40px auto 60px auto;padding:30px;background:rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.08);border-radius:20px;box-shadow:0 0 28px rgba(0,0,0,.4);">
+  <a href="https://cal.com/alexi.rar/asesorias-30min-3.99" target="_blank" rel="noopener noreferrer"
+     style="display:inline-flex;align-items:center;justify-content:center;gap:14px;font-family:'JetBrains Mono', monospace;font-size:1.25em;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:#fff;text-decoration:none;padding:18px 38px;border:1px solid rgba(255,77,77,.7);border-radius:14px;background:rgba(255,40,40,.12);box-shadow:0 0 22px rgba(255,40,40,.25);transition:all .25s ease;line-height:1;"
+     onmouseover="this.style.background='rgba(255,40,40,.28)';this.style.boxShadow='0 0 45px rgba(255,40,40,.8)';this.style.borderColor='#ff4d4d';"
+     onmouseout="this.style.background='rgba(255,40,40,.12)';this.style.boxShadow='0 0 22px rgba(255,40,40,.25)';this.style.borderColor='rgba(255,77,77,.7)';">
+    <span style="font-size:1.1em;">▶</span>
+    Iniciar diagnóstico
+  </a>
+  <p style="margin-top:18px;font-family:'JetBrains Mono', monospace;font-size:.78em;letter-spacing:1px;color:rgba(255,255,255,.5);line-height:1.6;">
+    ⏳ 30 min · $3.99 · Cupos limitados · <span style="color:#ff7b7b;font-weight:700;">No es para todos.</span>
+  </p>
+</div>
+
+
+
+
+  <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 34px;">
+    <!-- DIAGNÓSTICO -->
+    <div style="
+      flex: 1 1 280px;
+      background: linear-gradient(180deg, rgba(255,180,80,.06), rgba(255,180,80,.02));
+      border: 1px solid rgba(255,180,80,.2);
+      border-left: 3px solid #ffb84d;
+      border-radius: 18px;
+      padding: 28px 24px;
+      position: relative;
+      box-shadow: 0 0 20px rgba(255,180,80,.05);
+    ">
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: .8em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #ffb84d;
+        margin-bottom: 16px;
+        font-weight: 800;
+      ">⚡ Diagnóstico Inicial (30 min)</div>
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 2.6em;
+        font-weight: 900;
+        color: #ffffff;
+        margin-bottom: 12px;
+        text-shadow: 0 0 12px rgba(255,180,80,.3);
+      ">$3.99 USD</div>
+      <div style="
+        color: rgba(255,255,255,.65);
+        font-size: .9em;
+        line-height: 1.7;
+      ">        Disponibilidad sujeta a slot. Solo para primer contacto y mapeo de bugs.
+        <span style="color: #ffb84d; font-style: italic;"> (Disponible sólo el primer mes, saber aprovechar las oportunidades también es una habilidad)</span>
+      </div>
+    </div>
+    <div style="
+      flex: 1 1 280px;
+      background: linear-gradient(180deg, rgba(127,214,255,.06), rgba(127,214,255,.02));
+      border: 1px solid rgba(127,214,255,.2);
+      border-left: 3px solid #7fd6ff;
+      border-radius: 18px;
+      padding: 28px 24px;
+      position: relative;
+      box-shadow: 0 0 20px rgba(127,214,255,.05);
+    ">
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: .8em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #8bddff;
+        margin-bottom: 16px;
+        font-weight: 800;
+      ">🧠 Optimización Estándar (30 min)</div>
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 2.6em;
+        font-weight: 900;
+        color: #ffffff;
+        margin-bottom: 12px;
+        text-shadow: 0 0 12px rgba(127,214,255,.3);
+      ">$17 USD</div>
+      <div style="
+        color: rgba(255,255,255,.65);
+        font-size: .9em;
+        line-height: 1.7;
+      ">        Enfoque: Refactorización profunda y arquitectura de sistemas.
+      </div>
+    </div>
+  </div>
+  

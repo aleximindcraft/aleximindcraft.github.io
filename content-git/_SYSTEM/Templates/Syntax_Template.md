@@ -3,72 +3,78 @@ type: syntax
 ---
 <div style="
 margin:72px auto 46px auto;
-padding-bottom:28px;
-border-bottom:1px solid rgba(255,255,255,.14);
-box-shadow:0 10px 30px rgba(0,0,0,.18);
+padding:28px 30px 28px 30px;
+background:linear-gradient(180deg, rgba(13,71,161,.06), rgba(13,71,161,.02));
+border:1px solid rgba(13,71,161,.25);
+border-left:4px solid #0D47A1;
+border-radius:20px;
 max-width:920px;
 text-align:center;
 position:relative;
-">  <div style="
+box-shadow:0 0 24px rgba(13,71,161,.10), 0 10px 30px rgba(0,0,0,.18);
+">
+  <!-- Línea superior neón -->
+  <div style="
   position:absolute;
-  bottom:-1px;
-  left:50%;
-  transform:translateX(-50%);
-  width:180px;
+  top:0;
+  left:0;
+  width:100%;
   height:1px;
-  background:linear-gradient(
-    90deg,
-    transparent,
-    rgba(255,77,77,.75),
-    transparent
-  );
-  filter:blur(.4px);
-  "></div>  <div style="
+  background:linear-gradient(90deg, transparent, #0D47A1, #ff4d4d, #0D47A1, transparent);
+  opacity:.8;
+  "></div>
+  
+  <!-- Contenido principal -->
+  <div style="
   display:flex;
   justify-content:center;
-  align-items:flex-start;
-  gap:16px;
+  align-items:baseline;
+  gap:12px;
   font-family:'IBM Plex Mono', monospace;
   line-height:1;
-  ">   <span style="
-    color:#ff4d4d;
-    font-size:1.55em;
+  flex-wrap:wrap;
+  ">
+    <!-- Logo Alexi.rar -->
+    <span style="
+    font-size:1.3em;
     font-weight:800;
-    position:relative;
-    top:5px;
-    text-shadow:
-      0 0 4px rgba(255,255,255,.28),
-      0 0 10px rgba(255,77,77,.22);
-    ">    >_
+    letter-spacing:1px;
+    text-shadow:0 0 8px rgba(255,77,77,.4), 0 0 16px rgba(255,77,77,.2);
+    line-height:1;
+    ">
+      <span style="color:#ff4d4d;">>_</span> 
+      <span style="color:#ffffff;">Alexi</span><span style="color:#ff4d4d;">.rar</span>
     </span>
-    <div>
-      <div style="
-      font-size:.92em;
-      letter-spacing:3px;
-      text-transform:uppercase;
-      color:rgba(255,255,255,.62);
-      margin-bottom:18px;
-      font-weight:700;
-      text-shadow:
-        0 0 2px rgba(255,255,255,.10);
-      ">      Syntax
-      </div>
-      <div style="
-      font-size:3.55em;
-      font-weight:900;
-      letter-spacing:-2px;
-      color:#ffffff;
-      line-height:1.02;
-      text-shadow:
-        0 0 1px rgba(255,255,255,.92),
-        0 0 8px rgba(255,255,255,.18),
-        0 0 18px rgba(255,255,255,.08);
-      ">
-    fassad
-      </div>
-    </div>
+    <!-- Separador neón -->
+    <span style="
+    color:#8bddff;
+    font-size:1em;
+    font-weight:700;
+    text-shadow:0 0 6px rgba(127,214,255,.25);
+    ">//</span>
+    <!-- Syntax -->
+    <span style="
+    font-size:.92em;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    color:#8bddff;
+    font-weight:700;
+    text-shadow:0 0 6px rgba(127,214,255,.25);
+    ">Syntax</span>
   </div>
+  
+  <!-- Título grande -->
+  <div style="
+  font-size:3.55em;
+  font-weight:900;
+  letter-spacing:-2px;
+  color:#ffffff;
+  line-height:1.02;
+  margin-top:14px;
+  text-shadow:0 0 2px rgba(255,255,255,.95), 0 0 12px rgba(13,71,161,.30), 0 0 24px rgba(255,77,77,.15);
+  ">fassad</div>
 </div>
+
 <div style="
 margin:0 auto 34px auto;
 padding:30px 32px;
@@ -124,6 +130,7 @@ text-shadow:
 gol
 </div>
 </div>
+
 <div style="
 margin:0 auto 34px auto;
 padding:30px 32px;
@@ -179,7 +186,5 @@ text-shadow:
 da
 </div>
 </div>
-
-
 
 

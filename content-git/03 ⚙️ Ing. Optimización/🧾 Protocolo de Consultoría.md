@@ -1,66 +1,50 @@
 <div style="
-  max-width: 920px;
-  margin: 0 auto;
-  font-family: Inter, system-ui, sans-serif;
-  color: rgba(255,255,255,.88);
-">
-  <!-- ========== HERO DE LA SESIÓN ========== -->
+margin:72px auto 46px auto;
+max-width:920px;
+border-radius:22px;
+overflow:hidden;
+box-shadow:0 0 24px rgba(0,0,0,.22);
+text-align:center;
+">  <!-- CÁSCARA AZUL PIZARRA -->
   <div style="
-    margin: 72px auto 46px auto;
-    padding-bottom: 28px;
-    border-bottom: 1px solid rgba(255,255,255,.14);
-    box-shadow: 0 10px 30px rgba(0,0,0,.18);
-    text-align: center;
-    position: relative;
-  ">    <div style="
-      position: absolute;
-      bottom: -1px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 180px;
-      height: 1px;
-      background: linear-gradient(90deg, transparent, rgba(255,77,77,.75), transparent);
-      filter: blur(.4px);
-    "></div>
-    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 16px; line-height: 1;">
-      <span style="
-        color: #ff4d4d;
-        font-family: 'JetBrains Mono', 'IBM Plex Mono', monospace;
-        font-size: 1.55em;
-        font-weight: 800;
-        position: relative;
-        top: 5px;
-        text-shadow: 0 0 4px rgba(255,255,255,.28), 0 0 10px rgba(255,77,77,.22);
-      ">>_</span>
-      <div>
-        <div style="
-          font-family: 'JetBrains Mono', 'IBM Plex Mono', monospace;
-          font-size: .92em;
-          letter-spacing: 3px;
-          text-transform: uppercase;
-          color: rgba(255,255,255,.62);
-          margin-bottom: 18px;
-          font-weight: 700;
-        ">Optimización de Estructura Personal</div>
-        <div style="
-          font-size: 3.55em;
-          font-weight: 900;
-          letter-spacing: -2px;
-          color: #ffffff;
-          line-height: 1.02;
-          text-shadow: 0 0 1px rgba(255,255,255,.92), 0 0 8px rgba(255,255,255,.18), 0 0 18px rgba(255,255,255,.08);
-        ">Protocol</div>
-      </div>
+  padding:28px 30px 20px 30px;
+  background:linear-gradient(90deg, #0d1b2a 0%, #1a237e 100%);
+  border:1px solid rgba(26,35,126,.5);
+  border-left:4px solid #00bcd4;
+  border-bottom:1px solid rgba(0,188,212,.4);
+  box-shadow: -4px 0 12px rgba(0,188,212,.15);
+  ">    <!-- Logo + título -->
+    <div style="display:flex;align-items:baseline;justify-content:center;gap:12px;line-height:1;flex-wrap:wrap;">
+      <span style="font-family:'JetBrains Mono',monospace;font-size:1.3em;font-weight:800;letter-spacing:1px;text-shadow:0 0 8px rgba(255,77,77,.4);">
+        <span style="color:#ff4d4d;">>_</span>
+        <span style="color:#ffffff;">Alexi</span><span style="color:#ff4d4d;">.rar</span>
+      </span>
+      <span style="color:#00bcd4;font-size:1.2em;font-weight:700;">//</span>
+      <span style="font-family:'JetBrains Mono',monospace;font-size:.92em;letter-spacing:3px;text-transform:uppercase;color:rgba(255,255,255,.7);font-weight:700;">Optimización de Estructura Personal</span>
     </div>
-    <p style="
-      margin-top: 24px;
-      font-size: .95em;
-      color: rgba(255,255,255,.65);
-      line-height: 1.7;
-    ">      Has reservado una sesión de 30 minutos de alto impacto. Para garantizar que cada segundo de tu inversión se traduzca en una arquitectura de solución clara, operamos bajo este sistema:
+    <!-- Título grande -->
+    <div style="font-size:3.55em;font-weight:900;letter-spacing:-2px;color:#ffffff;line-height:1.02;margin-top:12px;text-shadow:0 0 2px rgba(255,255,255,.92),0 0 12px rgba(0,188,212,.3);">Protocol</div>
+  </div>  <!-- PULPA TÉCNICA -->
+  <div style="
+  padding:28px 30px;
+  background:rgba(10,15,30,.6);
+  border:1px solid rgba(255,255,255,.08);
+  border-left:4px solid #00bcd4;
+  border-top:none;
+  ">    <p style="margin:0;font-size:.95em;color:rgba(255,255,255,.75);line-height:1.7;">
+      Has reservado una sesión de 30 minutos de alto impacto. Para garantizar que cada segundo de tu inversión se traduzca en una arquitectura de solución clara, operamos bajo este sistema:
     </p>
+    <!-- Aquí puedes agregar los pasos del protocolo o más contenido -->
   </div>
-  <!-- ========== FASE 1: SINCRONIZACIÓN ========== -->
+</div>
+
+
+
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -92,7 +76,13 @@
       <strong style="color: #ffffff;">Depuración de Entorno:</strong> Validamos que los inputs del cuestionario sean técnicamente precisos. Si detectamos ruido estadístico o variables vagas, realizamos una limpieza inmediata para asegurar que el resto del proceso opere sobre una base sólida.
     </div>
   </div>
-  <!-- ========== FASE 2: EXTRACCIÓN ========== -->
+
+
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -129,7 +119,11 @@
       </p>
     </div>
   </div>
-  <!-- ========== FASE 3: CIERRE ========== -->
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -166,7 +160,9 @@
       </p>
     </div>
   </div>
-  <!-- ========== POLÍTICAS ========== -->
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -208,4 +204,10 @@
       </p>
     </div>
   </div>
-</div>
+
+
+
+
+
+
+

@@ -1,67 +1,53 @@
+
 <div style="
-  max-width: 920px;
-  margin: 0 auto;
-  font-family: Inter, system-ui, sans-serif;
-  color: rgba(255,255,255,.88);
-">
-  <!-- ========== HERO ========== -->
+margin:72px auto 46px auto;
+max-width:920px;
+border-radius:22px;
+overflow:hidden;
+box-shadow:0 0 24px rgba(0,0,0,.22);
+text-align:center;
+">  <!-- CÁSCARA AZUL MARINO - Logo + Título -->
   <div style="
-    margin: 72px auto 46px auto;
-    padding-bottom: 28px;
-    border-bottom: 1px solid rgba(255,255,255,.14);
-    box-shadow: 0 10px 30px rgba(0,0,0,.18);
-    text-align: center;
-    position: relative;
-  ">    <div style="
-      position: absolute;
-      bottom: -1px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 180px;
-      height: 1px;
-      background: linear-gradient(90deg, transparent, rgba(255,77,77,.75), transparent);
-      filter: blur(.4px);
-    "></div>
-    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 16px; line-height: 1;">
-      <span style="
-        color: #ff4d4d;
-        font-family: 'JetBrains Mono', 'IBM Plex Mono', monospace;
-        font-size: 1.55em;
-        font-weight: 800;
-        position: relative;
-        top: 5px;
-        text-shadow: 0 0 4px rgba(255,255,255,.28), 0 0 10px rgba(255,77,77,.22);
-      ">>_</span>
-      <div>
-        <div style="
-          font-family: 'JetBrains Mono', 'IBM Plex Mono', monospace;
-          font-size: .92em;
-          letter-spacing: 3px;
-          text-transform: uppercase;
-          color: rgba(255,255,255,.62);
-          margin-bottom: 18px;
-          font-weight: 700;
-        ">  
-Optimización de Sistemas Mentales</div>
-        <div style="
-          font-size: 3.55em;
-          font-weight: 900;
-          letter-spacing: -2px;
-          color: #ffffff;
-          line-height: 1.02;
-          text-shadow: 0 0 1px rgba(255,255,255,.92), 0 0 8px rgba(255,255,255,.18), 0 0 18px rgba(255,255,255,.08);
-        ">Consultorias</div>
-      </div>
+  padding:28px 30px 20px 30px;
+  background:linear-gradient(90deg, #0a0f1f 0%, #0D47A1 100%);
+  border:1px solid rgba(13,71,161,.5);
+  border-left:4px solid #ccff00;
+  border-bottom:1px solid rgba(204,255,0,.5);
+  box-shadow: -4px 0 12px rgba(204,255,0,.2);
+  ">    <!-- Logo + título en línea -->
+    <div style="display:flex;align-items:baseline;justify-content:center;gap:12px;line-height:1;flex-wrap:wrap;">
+      <!-- Logo Alexi.rar -->
+      <span style="font-family:'JetBrains Mono',monospace;font-size:1.3em;font-weight:800;letter-spacing:1px;text-shadow:0 0 8px rgba(255,77,77,.4);">
+        <span style="color:#ff4d4d;">>_</span>
+        <span style="color:#ffffff;">Alexi</span><span style="color:#ff4d4d;">.rar</span>
+      </span>
+      <!-- Separador -->
+      <span style="color:#ccff00;font-size:1.2em;font-weight:700;">//</span>
+      <!-- Título -->
+      <span style="font-family:'JetBrains Mono',monospace;font-size:.92em;letter-spacing:3px;text-transform:uppercase;color:rgba(255,255,255,.7);font-weight:700;">Optimización de Sistemas Mentales</span>
     </div>
-    <p style="
-      margin-top: 24px;
-      font-size: .95em;
-      color: rgba(255,255,255,.65);
-      line-height: 1.7;
-    ">
+    <!-- Título grande -->
+    <div style="font-size:3.55em;font-weight:900;letter-spacing:-2px;color:#ffffff;line-height:1.02;margin-top:12px;text-shadow:0 0 2px rgba(255,255,255,.92),0 0 12px rgba(204,255,0,.3);">Consultorías</div>
+  </div>  <!-- PULPA OSCURA - Texto descriptivo + contenido -->
+  <div style="
+  padding:28px 30px;
+  background:rgba(0,0,0,.35);
+  border:1px solid rgba(255,255,255,.08);
+  border-left:4px solid #a0aec0;
+  border-top:none;
+  ">    <p style="margin:0;font-size:.95em;color:rgba(255,255,255,.75);line-height:1.7;">
       Como analista de datos y programador, aplico ingeniería inversa al comportamiento humano. Si tu "código" interno tiene bugs que te impiden escalar, aquí los debugueamos.
     </p>
+    <!-- Aquí puedes agregar más contenido, como las tarjetas de precios o el CTA -->
   </div>
+</div>
+
+
+
+
+
+
+
   <img  
 src="https://res.cloudinary.com/dam8umsfx/image/upload/q_auto/f_auto/v1779243415/Portada_Consul_o0eevl.png"  
 alt="Arquitectura mental futurista"  
@@ -74,9 +60,13 @@ border-radius:24px;
 box-shadow:  
 0 0 30px rgba(0,0,0,.35),  
 0 0 60px rgba(255,77,77,.08);  
-"  
->
-  <!-- ========== ARQUITECTURA ========== -->
+"  >
+
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -119,7 +109,12 @@ box-shadow:
       </div>
     </div>
   </div>
-  <!-- ========== PROTOCOLO ========== -->
+
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 20px 32px;
@@ -134,7 +129,14 @@ box-shadow:
     text-transform: uppercase;
     box-shadow: 0 0 20px rgba(255,77,77,.06);
   ">📈 Protocolo de Intervención</div>
-  <!-- ========== ANOMALÍA ========== -->
+
+
+
+
+
+
+
+
   <div style="
     margin: 0 auto 34px auto;
     padding: 30px 32px;
@@ -174,7 +176,14 @@ box-shadow:
       </p>
     </div>
   </div>
-  <!-- ========== PRECIOS ========== -->
+
+
+
+
+
+
+
+
   <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 34px;">
     <!-- DIAGNÓSTICO -->
     <div style="
@@ -212,7 +221,6 @@ box-shadow:
         <span style="color: #ffb84d; font-style: italic;"> (Disponible sólo el primer mes, saber aprovechar las oportunidades también es una habilidad)</span>
       </div>
     </div>
-    <!-- OPTIMIZACIÓN -->
     <div style="
       flex: 1 1 280px;
       background: linear-gradient(180deg, rgba(127,214,255,.06), rgba(127,214,255,.02));
@@ -244,12 +252,15 @@ box-shadow:
         color: rgba(255,255,255,.65);
         font-size: .9em;
         line-height: 1.7;
-      ">
-        Enfoque: Refactorización profunda y arquitectura de sistemas.
+      ">        Enfoque: Refactorización profunda y arquitectura de sistemas.
       </div>
     </div>
   </div>
-</div>
+
+
+
+
+
 
 
 
@@ -268,27 +279,25 @@ box-shadow:
 
 
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#ff4d4d', 'lineColor': '#7fd6ff', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f1a2f'}}}%%
-graph TD
-    A["🧩 Ruido / Confusión / Patrones"]:::ruido --> B["🔍 Análisis de Variables"]:::analisis
-
-    B --> C["⚡ Reestructuración"]:::estrategia
-    B --> D["📈 Estrategia Social"]:::estrategia
-    B --> E["🧠 Claridad Mental"]:::estrategia
-    B --> F["🎯 Dirección"]:::estrategia
-
-    C --> G["No existen decisiones<br/>buenas o malas"]:::cierre
-    D --> G
-    E --> G
-    F --> G
-
-    G --> H["Solo consecuencias<br/>y conciencia"]:::cierre
-
-    classDef ruido fill:#2d1111,stroke:#ff4d4d,stroke-width:2px,color:#ffffff
-    classDef analisis fill:#0f1e2d,stroke:#7fd6ff,stroke-width:2px,color:#ffffff
-    classDef estrategia fill:#1f1a0f,stroke:#ffb84d,stroke-width:2px,color:#ffffff
-    classDef cierre fill:#1a1a1a,stroke:#ffffff,stroke-width:1.5px,color:#ffffff
-```
 
 
+
+
+
+
+
+
+111
+Fase 1
+
+1 Sesion en vivo: Punto de inicio
+2 Extraccion de variables y datos: Escuchar y preguntar cosas importantes
+3 Mapeo de variables(tu version vs realidad): Separamos lo que paso con lo que tu crees que paso 
+4 Ajustes finales: Expectativas claras antes de terminar
+
+Fase 2
+Transcripción y Filtrado: Pasas la llamada a texto para hacerle la auditoría limpia al caso.
+    
+Análisis, Probabilidad y Estadística: Cruzas las variables con calma en tu recuadro de variables, calculas dónde están los cuellos de botella estadísticos y sacas las conclusiones reales.
+    
+Entrega Final (PDF): El entregable con la estructura lógica y el mapa de ruta para resolver los bugs.
