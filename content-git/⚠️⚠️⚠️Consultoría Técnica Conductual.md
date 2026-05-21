@@ -130,6 +130,7 @@ box-shadow:
     box-shadow: 0 0 20px rgba(255,77,77,.06);
   ">📈 Protocolo de Intervención</div>
 
+![](https://res.cloudinary.com/dam8umsfx/image/upload/f_auto/q_auto/v1779337090/tduodw21vf3mkbv5ovho.png)
 
 
 
@@ -303,46 +304,4 @@ Análisis, Probabilidad y Estadística: Cruzas las variables con calma en tu rec
 Entrega Final (PDF): El entregable con la estructura lógica y el mapa de ruta para resolver los bugs.
 
 
-
-```mermaid
-graph TD
-  %% ── DEFINICIONES DE COLORES NEÓN (incrustados) ──
-  classDef neonGreen fill:#0a0c0f,stroke:#a3ff00,stroke-width:2.5px,color:#a3ff00
-  classDef neonCyan fill:#0a0c0f,stroke:#00f0ff,stroke-width:2.5px,color:#00f0ff
-  classDef neonOrange fill:#0a0c0f,stroke:#ff8c00,stroke-width:2.5px,color:#ff8c00
-  classDef neonPink fill:#0a0c0f,stroke:#ff2a6d,stroke-width:2.5px,color:#ff2a6d
-  classDef neonPurple fill:#0a0c0f,stroke:#c350ff,stroke-width:2.5px,color:#c350ff
-  classDef neonYellow fill:#0a0c0f,stroke:#ffe600,stroke-width:2.5px,color:#ffe600
-  classDef neonRed fill:#0a0c0f,stroke:#ff3a3a,stroke-width:2.5px,color:#ff3a3a
-  classDef divider fill:none,stroke:none,color:transparent
-
-  %% ── FASE 1: SESIÓN EN VIVO ──
-  subgraph Fase1["⚡ FASE 1 · SESIÓN EN VIVO (30 min)"]
-    direction TB
-    N1["🎙️ 01 · Sesión en vivo<br/><i>Punto de inicio</i>"]:::neonGreen
-    N2["📊 02 · Extracción de variables<br/><i>Escuchar y preguntar lo importante</i>"]:::neonCyan
-    N3["⚖️ 03 · Mapeo de variables<br/><i>Tu versión vs realidad</i>"]:::neonOrange
-    N4["🔧 04 · Ajustes finales<br/><i>Expectativas claras antes de terminar</i>"]:::neonPink
-    N1 --> N2 --> N3 --> N4
-  end
-
-  %% ── NODO INVISIBLE DE CONEXIÓN ──
-  DIV[" "]:::divider
-  N4 --> DIV
-
-  %% ── FASE 2: ANÁLISIS Y ENTREGA ──
-  subgraph Fase2["🧠 FASE 2 · ANÁLISIS & ENTREGA (Asíncrono)"]
-    direction TB
-    N5["📝 05 · Transcripción y Filtrado<br/><i>Llamada a texto, auditoría limpia</i>"]:::neonPurple
-    N6["📈 06 · Análisis, Probabilidad y Estadística<br/><i>Cruce de variables, cuellos de botella</i>"]:::neonYellow
-    N7["📦 07 · Entrega Final (PDF)<br/><i>Estructura lógica + mapa de ruta para Obsidian</i>"]:::neonRed
-    N5 --> N6 --> N7
-  end
-
-  DIV --> N5
-
-  %% ── ESTILOS DE LOS SUBGRAFOS (bordes neón) ──
-  style Fase1 fill:#0d1117,stroke:#a3ff00,stroke-width:1.5px,color:#ffffff,rx:12
-  style Fase2 fill:#0d1117,stroke:#ff2a6d,stroke-width:1.5px,color:#ffffff,rx:12
-```
 
