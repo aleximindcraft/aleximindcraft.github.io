@@ -281,27 +281,3 @@ box-shadow:
 
 
 
-
-
-
-
-
-
-
-111
-Fase 1
-
-1 Sesion en vivo: Punto de inicio
-2 Extraccion de variables y datos: Escuchar y preguntar cosas importantes
-3 Mapeo de variables(tu version vs realidad): Separamos lo que paso con lo que tu crees que paso 
-4 Ajustes finales: Expectativas claras antes de terminar
-
-Fase 2
-Transcripción y Filtrado: Pasas la llamada a texto para hacerle la auditoría limpia al caso.
-    
-Análisis, Probabilidad y Estadística: Cruzas las variables con calma en tu recuadro de variables, calculas dónde están los cuellos de botella estadísticos y sacas las conclusiones reales.
-    
-Entrega Final (PDF): El entregable con la estructura lógica y el mapa de ruta para resolver los bugs.
-
-
-
