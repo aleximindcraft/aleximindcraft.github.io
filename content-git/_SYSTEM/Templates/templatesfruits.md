@@ -235,3 +235,48 @@ Otro
     <div style="font-size:1.06em;line-height:1.9;color:#ffffff;">Arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano arándano.</div>
   </div>
 </div>
+
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#05070b",
+    "primaryTextColor": "#ffffff",
+    "lineColor": "#7fd6ff",
+    "fontFamily": "JetBrains Mono, monospace",
+    "fontSize": "17px"
+  },
+  "flowchart": {
+    "nodeSpacing": 45,
+    "rankSpacing": 60,
+    "curve": "stepBefore"
+  }
+}}%%
+
+flowchart TD
+
+    A["🧠 HUMAN INPUT<br/><br/>ruido mental<br/>malos patrones"]
+
+    B["🔍 DIAGNOSTIC ENGINE<br/><br/>hábitos<br/>entorno<br/>decisiones"]
+
+    C["⚙️ SYSTEM REFACTOR<br/><br/>eliminación de bugs<br/>arquitectura mental"]
+
+    D["📈 EXECUTION MODE<br/><br/>claridad<br/>control<br/>ventaja social"]
+
+    A ==> B ==> C ==> D
+
+    classDef input fill:#16090b,stroke:#ff4d4d,color:#ffffff,stroke-width:3px;
+    classDef analysis fill:#071520,stroke:#58c4ff,color:#ffffff,stroke-width:3px;
+    classDef refactor fill:#081918,stroke:#00e0c6,color:#ffffff,stroke-width:3px;
+    classDef output fill:#1b1407,stroke:#ffcc4d,color:#ffffff,stroke-width:3px;
+
+    class A input;
+    class B analysis;
+    class C refactor;
+    class D output;
+
+    linkStyle 0 stroke:#ff4d4d,stroke-width:4px;
+    linkStyle 1 stroke:#58c4ff,stroke-width:4px;
+    linkStyle 2 stroke:#ffcc4d,stroke-width:4px;
+```

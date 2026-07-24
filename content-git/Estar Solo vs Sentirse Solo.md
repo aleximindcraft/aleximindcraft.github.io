@@ -71,7 +71,7 @@ text-align:center;
     line-height:1.02;
     font-family:'IBM Plex Mono',monospace;
     text-shadow:0 0 1px rgba(255,255,255,.92),0 0 8px rgba(255,255,255,.18);
-    ">Hola te apesta la cola</div>
+    ">Estar Solo vs Sentirse Solo</div>
   </div>
 </div>
 
