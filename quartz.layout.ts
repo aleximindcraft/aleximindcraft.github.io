@@ -24,19 +24,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
- left: [
-  Component.PageTitle(),
-  Component.MobileOnly(Component.Spacer()),
-  Component.Flex({
-    components: [
-      {
-        Component: Component.Search(),
-        grow: true,
-      },
-      { Component: Component.Darkmode() },
-      { Component: Component.ReaderMode() },
-    ],
-  }),
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        // { Component: Component.Darkmode() }, // FIX: Bye switch de tema, el sitio se queda hardcoded en dark mode
+        { Component: Component.ReaderMode() },
+      ],
+    }),
     Component.Explorer(),
   ],
   right: [
@@ -58,10 +58,10 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        // { Component: Component.Darkmode() }, // FIX: Deprecated theme toggle(No darmode)
       ],
     }),
     Component.Explorer(),
   ],
   right: [],
-} 
+}
